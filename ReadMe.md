@@ -17,7 +17,7 @@
 ### 1. Install
 
 ```bash
-git clone 
+git clone https://github.com/mSaroarDev/node-js-setup-ts.git
 
 cd my-backend-app
 
